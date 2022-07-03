@@ -17,32 +17,7 @@ There are many countries in the world that receive a lot of energy from the sun 
 The tool is meant to be used by communities/regions/countries that are looking to shift a portion of their enery supply to solar energy and are looking for the most suitable and efficient way to do so. For example, local authorities can use it to identify good locations for solar farms, and prepare projects and plan budgets accordingly.
 It is important that the solution takes into account the energy needs of the community, the climate and georgraphical characteristics of the region as well as the already existing infrastructure. 
 
-
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
-
-If you need to resize images, you have to use an HTML tag, like this:
 <img src="https://cdn.pixabay.com/photo/2017/09/28/18/45/solar-2796471_960_720.jpg" width="300">
-
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
-
 
 ## Data sources and AI methods
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
