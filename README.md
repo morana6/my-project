@@ -36,5 +36,5 @@ The project is quite ambitions, and in order for it to grow, collaboration among
 
 ## Acknowledgments
 
-* Idea inspired by the Building AI corse
-* <br>For example: [Photo by jaidee](https://pixabay.com/de/photos/solar-sonnenkollektoren-solar-farm-2796471/) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
+* Idea inspired by the Building AI course
+* [Photo by jaidee](https://pixabay.com/de/photos/solar-sonnenkollektoren-solar-farm-2796471/) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
