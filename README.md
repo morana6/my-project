@@ -20,28 +20,21 @@ It is important that the solution takes into account the energy needs of the com
 <img src="https://cdn.pixabay.com/photo/2017/09/28/18/45/solar-2796471_960_720.jpg" width="300">
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+First a training set will need to be created. On a high-resolution satelite image of a large enough area, a team of experts will label the areas which are suitable for a solar farm, using a variety of criteria. 
+The supervised learning method can be combined with reinforcment learning in order to provide better recommendations. taylored to the needs of the specific community.
+The AI methods used will be Computer Vision and Machine Learning.
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+The collections and processing of training data will take quite a bit of effort and resources. 
+In terms of the implementation on site, there will probably be many legal challenges that will have to be solved concerning land ownership.
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
-
+The project is quite ambitions, and in order for it to grow, collaboration among AI developers, engineering experts and the civil population is of the outmost importance.
 
 ## Acknowledgments
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Photo by jaidee](https://pixabay.com/de/photos/solar-sonnenkollektoren-solar-farm-2796471/) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+* Idea inspired by the Building AI corse
+* <br>For example: [Photo by jaidee](https://pixabay.com/de/photos/solar-sonnenkollektoren-solar-farm-2796471/) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
