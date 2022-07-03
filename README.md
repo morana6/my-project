@@ -1,4 +1,4 @@
-# Project Title
+# SolarAI
 
 Final project for the Building AI course
 
